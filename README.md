@@ -1,2 +1,3 @@
 # Credit-Risk-Scoring
 Scoring Models
+Description of Data : Data table contains annual data for approved applications for short term loan. Maximum term for a single loan is 30 days, but client can make partial repayments during that time, as well as take additional amounts if it is allowed by the credit limit.  Data table has important description of a client and information about an application. Variable Contract Status Indicator shows if the particular approved loan is delayed by at least 91 days, and hence loan is defaulted (BAD – loan is delayed by at least 91 days, GOOD – loan is repaid in time or delayed by less than 91 days). Value INDETERMINATE means the GOOD/BAD status of the loan cannot be determined. 
